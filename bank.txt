@@ -1,0 +1,200 @@
+  <li class="cards_item">
+            <div class="card">
+              <div class="card_image">
+                <span class="note">خدمة مجانية</span>
+                <img src="assets/img/pexels-emily-ranquist-1205651.jpg" alt="mixed vegetable salad in a mason jar." />
+                <span class="card_price free_price"><span>$</span>250</span>
+              </div>
+              <div class="card_content">
+                <h2 class="card_title">FREE PACK</h2>
+                <div class="card_text">
+                  <ul class="features">
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">استخراج القبول الجامعي مجانا بكل التخفيضات الممكنة و بأقل الأسعار .</span>
+                      
+                    </li>
+                   
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">الاستقبال في المطار و المرافقة إلى المكان الذي يود الطالب (الفندق الذي حجز فيه او غيرها ).</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">مرافقة الطالب و إتمام التسجيل في الجامعة بشكل صحيح و سليم .</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">أخد موعد الإقامة الطلابية الإجبارية.</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">الاستفادة من استشارات تعليمية مجانية طوال فترة دراستك .</span>
+                      
+                    </li>
+                    <li class="list_item btn_item">
+                      <a href="#contact_section" class="btn_services">تواصل معنا</a>
+                    </li>
+                  </ul>
+                </div>
+                <br>
+               
+              </div>
+            </div>
+          </li>
+      
+          <li class="cards_item">
+            <div class="card">
+              <div class="card_image">
+                <span class="note">خدمة مصغرة</span>
+                <img src="assets/img/pexels-anastasiya-gepp-1462630.jpg" alt="a Reuben sandwich on wax paper." />
+                <span class="card_price"><span>$</span>350</span>
+              </div>
+              <div class="card_content">
+                <h2 class="card_title">MINI PACK</h2>
+                <div class="card_text">
+                  <ul class="features">
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">مرافقة الطالب،و إكمال إجراءات التسجيل بالجامعة.</span>
+                      
+                    </li>
+                   
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">ترجمة الوثائق من طرف مترجم محلف تركي.</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">مصادقة الوثائق المترجمة من خلال النوتر.</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">استخراج بطاقة المواصلات الخاصة بطالب.</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">دفع أقساط التأمين الصحي الاجباري.</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">دفع أقساط الرقم الضريبي الخاص بالطالب .</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">استخراج موعد الإقامة الطلابية الاجباري.</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">استخراج المعادلة من وزارة التعليم التركي .</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">الاستفادة من انشطة الترفيهية التي ستنظم بشكل مجاني .</span>
+                      
+                    </li>
+                    <li class="list_item btn_item">
+                      <a href="#contact_section" class="btn_services">تواصل معنا</a>
+                    </li>
+                  </ul>
+                </div>
+               
+              </div>
+            </div>
+          </li>
+      
+          <li class="cards_item">
+            <div class="card">
+              <div class="card_image">
+                <span class="note">خدمة مميزة</span>
+                <img src="assets/img/pexels-pixabay-159775.jpg" alt="A side view of a plate of figs and berries." />
+                <span class="card_price"><span>$</span>900</span>
+              </div>
+              <div class="card_content">
+                <h2 class="card_title">VIP PACK</h2>
+                <div class="card_text">
+                  <ul class="features">
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">استخراج القبول الجامعي مجانا بكل التخفيضات الممكنة و بأقل الأسعار .</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">الاستقبال في المطار و المرافقة إلى الفندق.</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">الاستضافة في الفندق لمدة ثلاث أيام (+وجبة عشاء).</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">المساعدة على ايجاد السكن اللائق و قريب على الجامعة.</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">مرافقة الطالب و إتمام التسجيل في الجامعة بشكل صحيح و سليم .</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">ترجمة الوثائق اللازمة لاتمام التسجيل في الجامعة من طرف مترجم محلف .</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">لمصادقة على الوثائق من طرف النوتر .</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">استخراج بطاقة المواصلات الخاصة بطلاب.</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">دفع أقساط التأمين الصحي الاجباري .</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">دفع اقساط الرقم الضريبي الخاص بالطالب .</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">استخراج موعد الإقامة الطلابية الاجباري .</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">استخراج المعادلة من وزارة التعليم التركي .</span>
+                      
+                    </li>
+                    <li class="list_item">
+                      <i class="fas fa-check"></i>
+                      <span class="list-name">الاستفادة من انشطة الترفيهية التي ستنظم بشكل مجاني .</span>
+                      
+                    </li>
+                    <li class="list_item btn_item">
+                      <a href="#contact_section" class="btn_services">تواصل معنا</a>
+                    </li>
+                  </ul>
+                </div>
+              
+              </div>
+            </div>
+          </li>

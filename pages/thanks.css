@@ -1,0 +1,64 @@
+
+:root{
+  --first-color: #BF0436;
+    --second-color: #314259;
+    --third-color: #248db5;
+}
+*{
+  font-family: "kufam" ,sans-serif !important;
+}
+/* start thanks page */
+.container .message{
+    text-align: center;
+    padding: 60px 0;
+  }
+  .message .icon{
+    width: 40%;
+    margin: auto;
+  }
+  .message .icon img{
+    width: 100%;
+  }
+  .message h1{
+    font-weight: bold;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    color: var(--second-color);
+  }
+  .message p span{
+    font-weight: bold;
+    font-size: 20px;
+    color: var(--first-color);
+  }
+  .message p{
+    font-weight: 500;
+  }
+  .message .ContactLink{
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 60px;
+    padding-top: 13px;
+    background-color: var(--first-color);
+    text-decoration: none;
+    border-radius: 3px;
+  }
+  .contactlink_info{
+    width: 80%;
+    margin: auto;
+    direction: ltr !important;
+    margin-top: 30px;
+  }
+  @media  (max-width:550px) {
+    .message p span{
+      font-weight: bold;
+      font-size: 17px;
+      color: var(--first-color);
+    }
+    .message p{
+      font-size: 14px;
+    }
+  }
+
+/* End thanks page */
+
+

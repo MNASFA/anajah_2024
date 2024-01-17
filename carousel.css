@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css?family=Libre+Franklin:300,400,600,700,800&display=swap");
+html, body {
+  font-family: "Libre Franklin", sans-serif;
+}
+
+div.carousel-nav-icon > svg {
+  height: 48px;
+  width: 48px;
+}
+
+html[data-bs-theme=dark] div.carousel-nav-icon > svg {
+  fill: #FFF !important;
+}
+
+@media (max-width: 767px) {
+  .carousel-inner .carousel-item > div {
+    display: none;
+  }
+  .carousel-inner .carousel-item > div:first-child {
+    display: block;
+  }
+ 
+  .card-img img{
+    width: 100% !important;
+    height: 170px;
+    
+  }
+ 
+}
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+  display: flex;
+}
+
+/* medium and up screens */
+@media (min-width: 768px) {
+  .carousel-inner .carousel-item-end.active,
+  .carousel-inner .carousel-item-next {
+    transform: translateX(33%);
+  }
+  .carousel-inner .carousel-item-start.active,
+  .carousel-inner .carousel-item-prev {
+    transform: translateX(-33%);
+  }
+}
+.carousel-inner .carousel-item-end,
+.carousel-inner .carousel-item-start {
+  transform: translateX(0);
+}
+
+/* Nothing below this point is needed. */
+.dark-mode-toggle {
+  bottom: 3%;
+  right: 3%;
+  z-index: 10;
+}
+
+.dark-mode-toggle,
+.dark-mode-toggle > *,
+.dark-mode-toggle > * > * {
+  cursor: pointer;
+}/*# sourceMappingURL=carousel.css.map */
+
+.card-img img{
+  width: 170px;
+  height: 170px;
+}
+.halic_img{
+  width: 120px !important;
+  
+}
+.card-img{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.carousel-item .card{
+  border: none;
+  box-shadow: none;
+}
+
+.partners_section{
+  width: 100%;
+  margin-bottom: 50px;
+}
